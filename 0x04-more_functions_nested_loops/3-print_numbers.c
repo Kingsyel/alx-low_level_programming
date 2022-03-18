@@ -8,8 +8,10 @@ void print_numbers(void)
 {
 	int a;
 
-	if (a = 0; a < 10; a++)
-	{ _puthcar (a);
+	while (a < 10)
+	{
+	       _puthcar (a + '0');
+	       a++;
 	}
 	_putchar ('\n');
 }
