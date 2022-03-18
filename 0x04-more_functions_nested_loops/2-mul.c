@@ -1,8 +1,8 @@
 #inlude "main.h"
 /**
  * mul - multiplies two integers
- *@a: prints integer
- *@b: prints integer
+ *@a: prints int
+ *@b: prints int
  * Return: Always 0
  */
 int mul(int a, int b)
