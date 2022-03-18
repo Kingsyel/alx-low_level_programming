@@ -1,7 +1,7 @@
 #inlude "main.h"
 /**
  * mul - multiplies two integers
- * @a: prints integer
+ *@a: prints integer
  *@b: prints integer
  * Return: Always 0
  */
