@@ -1,6 +1,6 @@
 #inlude "main.h"
 /**
- * mul -multiplies two integers
+ *mul -multiplies two integers
  *@a: prints int
  *@b: prints int
  * Return: Always 0
