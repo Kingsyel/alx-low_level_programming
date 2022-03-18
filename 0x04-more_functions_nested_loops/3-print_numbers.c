@@ -12,5 +12,5 @@ void print_numbers(void)
 	if (a = 0, a < 10, a++)
 	{ _puthcar (a);
 	}
-	_putchar ("\n");
+	_putchar ('\n');
 }
